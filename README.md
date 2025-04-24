@@ -1,6 +1,6 @@
 # Projeto de Análise de Acidentes em Rodovias Federais (2017-2019)
 
-Dashboard interativo no Power BI para análise de acidentes de trânsito nas rodovias federais brasileiras
+Dashboard interativo no Power BI para análise de acidentes de trânsito nas rodovias federais brasileiras.
 
 ## 📌 Visão Geral
 Projeto desenvolvido para a disciplina Banco de Dados II da Escola Politécnica, orientado pela Profª. Drª. Aline de Campos. Utilizamos dados do DENATRAN (2017-2019) para criar visualizações que ajudem a entender padrões de acidentes.
